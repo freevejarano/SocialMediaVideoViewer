@@ -58,5 +58,7 @@ El objetivo es desarrollar una aplicación que permita a los usuarios:
 3. **Desarrollo de la Interfaz**: Consideren qué elementos de interfaz son necesarios para una experiencia de usuario fluida y atractiva. Incluyan funcionalidades que mejoren la interacción del usuario con la aplicación.
 4. **Prototipo Inicial y Pruebas**: Desarrollen un prototipo inicial que puedan mejorar iterativamente. Realicen pruebas para asegurarse de que la aplicación funciona correctamente y es intuitiva de usar.
 
+## 📓 [Documentación de Streamlit](https://docs.streamlit.io/)
+
 Este ejercicio es una oportunidad para innovar y crear una herramienta que no solo resuelva un problema, sino que también sea fácil de usar y visualmente atractiva. ¡Buena suerte!
 
