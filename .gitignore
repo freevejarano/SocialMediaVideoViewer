@@ -44,3 +44,11 @@ dist/
 build/
 egg-info/
 wheels/
+
+# Cloud9 metadata and temporary files
+.c9/
+*.c9revisions
+.project
+.settings/
+.~c9*
+.c9*
