@@ -16,6 +16,10 @@ Para ejecutar esta aplicación, sigue los pasos a continuación:
 git clone https://github.com/freevejarano/SocialMediaVideoViewer.git
 ```
 
+```
+cd SocialMediaVideoViewer
+```
+
 2. Asegúrate de tener Python y Streamlit instalados. Si no, puedes instalar Streamlit y agregar los requerimientos necesarios usando:
 
 ```
